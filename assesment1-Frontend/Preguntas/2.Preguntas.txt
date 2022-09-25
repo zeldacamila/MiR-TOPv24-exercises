@@ -14,4 +14,3 @@ Imagen https://raw.githubusercontent.com/makeitrealcamp/assesment-1-programa-top
 (Para mostrar los servicios debes usar CSS Flexbox o CSS Grid).
 
 
-<link href="https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap" rel="stylesheet">
