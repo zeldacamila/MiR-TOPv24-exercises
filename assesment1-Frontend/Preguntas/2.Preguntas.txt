@@ -1,0 +1,17 @@
+2. Preguntas
+
+1. ¿Cuáles son las ceremonias más importantes de un Sprint y cuál es la idea de cada una?
+2. ¿Qué son los Wireframes? Nombra al menos una herramienta que podamos utilizar.
+3. Explicar la diferencia entre var, let y const. Y dar un ejemplo en qué caso se utilizará.
+4. ¿Cuáles son los tres comandos que se pueden utilizar para crear una nueva rama llamada rama-1?
+5. Explicar la diferencia entre git merge y git rebase.
+6. ¿Cuál es la diferencia entre Pull Request (PR) y el comando git pull?
+7. ¿Qué es el Virtual DOM?
+
+8. Dado el siguiente codePen https://codepen.io/cristian-makeitreal/pen/NWadqqa?editors=1100, 
+el cual solo tiene un HTML, por medio de css llegar a esta respuesta.
+Imagen https://raw.githubusercontent.com/makeitrealcamp/assesment-1-programa-top/main/assets/services-section.gif.
+(Para mostrar los servicios debes usar CSS Flexbox o CSS Grid).
+
+
+<link href="https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap" rel="stylesheet">
