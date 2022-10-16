@@ -1,9 +1,9 @@
-type Cuenta = {
+type Account = {
   number: string,
   balance: number
 }
 
-const accounts:(Cuenta)[] = []
+const accounts:(Account)[] = []
 
 function open(number:string, balance:number) {
   accounts.push({ number, balance })
